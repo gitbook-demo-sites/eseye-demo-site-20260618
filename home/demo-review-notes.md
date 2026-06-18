@@ -22,3 +22,6 @@ icon: clipboard-check
 ## Adaptive demo view
 
 Use the AT&T demo URL to hide the Developer APIs section from the top navigation. The default view still shows the full site.
+
+- Default review URL: https://favourkelvin17.gitbook.io/eseye-documentation-hub-demo/cLlKkev5aGOaZhQeufNx/
+- AT&T view: https://favourkelvin17.gitbook.io/eseye-documentation-hub-demo/cLlKkev5aGOaZhQeufNx/?visitor.company=att
