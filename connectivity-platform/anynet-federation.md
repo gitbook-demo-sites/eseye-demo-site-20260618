@@ -50,4 +50,4 @@ Document network preference, alert thresholds, localization requirements, and es
 
 - Review [AnyNet+ SIMs and profiles](anynet-sims-and-profiles.md).
 - Set operational controls in [Infinity platform](infinity-platform.md).
-- For device-side choices, see [Hera router overview](https://app.gitbook.com/s/74k47kHxPCNJdAydQL63/product-families/hera-router-overview).
+- For device-side choices, see [Hera router overview](https://app.gitbook.com/s/kpggc3qX0IYi8Lu0z7Tm/product-families/hera-router-overview).

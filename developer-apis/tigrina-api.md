@@ -29,5 +29,5 @@ flowchart TD
 ```
 
 {% hint style="info" %}
-Pair Tigrina diagnostics with the [troubleshooting device connectivity](https://app.gitbook.com/s/74k47kHxPCNJdAydQL63/field-workflows/troubleshoot-device-connectivity) flow so support can move from API evidence to field action.
+Pair Tigrina diagnostics with the [troubleshooting device connectivity](https://app.gitbook.com/s/kpggc3qX0IYi8Lu0z7Tm/field-workflows/troubleshoot-device-connectivity) flow so support can move from API evidence to field action.
 {% endhint %}
