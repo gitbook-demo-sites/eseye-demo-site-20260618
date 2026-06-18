@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 640" role="img" aria-labelledby="title desc">
+<title id="title">Eseye global IoT connectivity map</title>
+<desc id="desc">A dark map-inspired network with connected devices, mobile networks, and cloud services.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0" stop-color="#031826"/>
+    <stop offset="0.52" stop-color="#08324a"/>
+    <stop offset="1" stop-color="#081f3f"/>
+  </linearGradient>
+  <radialGradient id="pulse" cx="50%" cy="50%" r="50%">
+    <stop offset="0" stop-color="#37d7ff" stop-opacity="0.55"/>
+    <stop offset="1" stop-color="#37d7ff" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="1600" height="640" fill="url(#bg)"/>
+<path d="M80 460 C270 320 420 340 570 238 S850 126 1020 230 1290 358 1515 170" fill="none" stroke="#55d5f2" stroke-width="4" stroke-opacity="0.55"/>
+<path d="M130 250 C310 150 480 210 650 318 S960 470 1150 350 1325 260 1490 318" fill="none" stroke="#a7f3d0" stroke-width="3" stroke-opacity="0.45"/>
+<g fill="url(#pulse)">
+  <circle cx="260" cy="338" r="118"/>
+  <circle cx="690" cy="302" r="145"/>
+  <circle cx="1115" cy="344" r="132"/>
+  <circle cx="1365" cy="220" r="102"/>
+</g>
+<g fill="#ffffff" stroke="#91e7f5" stroke-width="4">
+  <circle cx="260" cy="338" r="14"/>
+  <circle cx="690" cy="302" r="14"/>
+  <circle cx="1115" cy="344" r="14"/>
+  <circle cx="1365" cy="220" r="14"/>
+  <circle cx="450" cy="245" r="10"/>
+  <circle cx="890" cy="175" r="10"/>
+  <circle cx="1235" cy="410" r="10"/>
+</g>
+<g fill="none" stroke="#ffffff" stroke-opacity="0.18">
+  <path d="M0 420 H1600"/>
+  <path d="M0 320 H1600"/>
+  <path d="M0 220 H1600"/>
+  <path d="M300 0 V640"/>
+  <path d="M700 0 V640"/>
+  <path d="M1100 0 V640"/>
+  <path d="M1450 0 V640"/>
+</g>
+<g font-family="Inter, Arial, sans-serif" fill="#e9fbff">
+  <text x="88" y="112" font-size="64" font-weight="700">Global IoT connectivity</text>
+  <text x="92" y="170" font-size="30" fill="#a8e8f2">One control plane for devices, SIMs, routers, networks, and APIs.</text>
+</g>
+</svg>
