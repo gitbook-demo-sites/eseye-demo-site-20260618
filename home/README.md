@@ -44,6 +44,8 @@ GitBook can preserve Eseye's broad support surface while making it easier for cu
 
 ***
 
+{% if visitor.claims.unsigned.company !== "att" %}
+
 <table data-view="cards">
   <thead>
     <tr>
@@ -74,6 +76,37 @@ GitBook can preserve Eseye's broad support surface while making it easier for cu
     </tr>
   </tbody>
 </table>
+
+{% endif %}
+
+{% if visitor.claims.unsigned.company === "att" %}
+
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th width="48"></th>
+      <th></th>
+      <th></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><i class="fa-tower-cell" style="color:#00A6D6;"></i></td>
+      <td><strong>Connectivity and platform</strong></td>
+      <td>AnyNet Federation, AnyNet+ SIMs, Infinity, SIM lifecycle controls, and global connectivity operations.</td>
+      <td><a href="https://app.gitbook.com/s/wGjO4exwMd6xQT3Tvl1R/">connectivity</a></td>
+    </tr>
+    <tr>
+      <td><i class="fa-router" style="color:#00A6D6;"></i></td>
+      <td><strong>Hardware and devices</strong></td>
+      <td>Hera routers, SIM form factors, module setup, installation, basic settings, and troubleshooting paths.</td>
+      <td><a href="https://app.gitbook.com/s/kpggc3qX0IYi8Lu0z7Tm/">hardware</a></td>
+    </tr>
+  </tbody>
+</table>
+
+{% endif %}
 
 ## Built for the real support journey
 
