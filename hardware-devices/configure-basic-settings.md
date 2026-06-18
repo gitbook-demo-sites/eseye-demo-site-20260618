@@ -20,5 +20,5 @@ Eseye preconfigures the cellular connection for Hera routers, but field teams st
 </table>
 
 {% hint style="info" %}
-For API-based diagnostics, pair this UI workflow with the [Tigrina API](https://app.gitbook.com/s/XSPACE_APIS/tigrina-api) pages.
+For API-based diagnostics, pair this UI workflow with the [Tigrina API](https://app.gitbook.com/s/G5PF6rxV1mTeJtUNiIbI/api-families/tigrina-api) pages.
 {% endhint %}

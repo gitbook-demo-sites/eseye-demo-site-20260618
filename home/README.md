@@ -58,19 +58,19 @@ GitBook can preserve Eseye's broad support surface while making it easier for cu
       <td><i class="fa-tower-cell" style="color:#00A6D6;"></i></td>
       <td><strong>Connectivity and platform</strong></td>
       <td>AnyNet Federation, AnyNet+ SIMs, Infinity, SIM lifecycle controls, and global connectivity operations.</td>
-      <td><a href="https://app.gitbook.com/s/XSPACE_CONNECTIVITY/README">connectivity</a></td>
+      <td><a href="https://app.gitbook.com/s/TTjAyYrEu5LrDFargln2/">connectivity</a></td>
     </tr>
     <tr>
       <td><i class="fa-router" style="color:#00A6D6;"></i></td>
       <td><strong>Hardware and devices</strong></td>
       <td>Hera routers, SIM form factors, module setup, installation, basic settings, and troubleshooting paths.</td>
-      <td><a href="https://app.gitbook.com/s/XSPACE_HARDWARE/README">hardware</a></td>
+      <td><a href="https://app.gitbook.com/s/74k47kHxPCNJdAydQL63/">hardware</a></td>
     </tr>
     <tr>
       <td><i class="fa-code" style="color:#00A6D6;"></i></td>
       <td><strong>Developer APIs</strong></td>
       <td>Start using APIs, pick the right API family, send SMS, manage SIMs, and query Hera router diagnostics.</td>
-      <td><a href="https://app.gitbook.com/s/XSPACE_APIS/README">developer APIs</a></td>
+      <td><a href="https://app.gitbook.com/s/G5PF6rxV1mTeJtUNiIbI/">developer APIs</a></td>
     </tr>
   </tbody>
 </table>
